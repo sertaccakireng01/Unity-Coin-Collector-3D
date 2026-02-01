@@ -1,4 +1,6 @@
-Coin Collector 3D
+Coin Collector Game with Unity 3D
+
+YouTube GamePlay Video Link: https://youtu.be/kuC5KdDw1WY
 
 A specialized 3D platformer project developed with Unity 6, focusing on fundamental game design patterns, physics-based interactions, and modern C# scripting standards.
 
